@@ -11,7 +11,7 @@ PSPS. Please use mobile native tools. (Tests written on Java are accepted too)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Kiran findings
-old version of java 11  
+old version of java 11  upgraded to higer version
 "Note: I encountered a build failure due to deprecated JCenter dependencies (Detekt).
 I resolved this by updating the repository configuration to MavenCentral
 and bypassing legacy linting tools to prioritize the automation suite delivery.
