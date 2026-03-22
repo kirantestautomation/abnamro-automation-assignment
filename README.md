@@ -32,7 +32,7 @@ gradle/ (The wrapper)
 
 build.gradle (The configuration)
 
-README.md (Your strategy and scenarios)
+Test Approach.docx (Your strategy and scenarios)
 
 Gemfile
 
