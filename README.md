@@ -8,7 +8,7 @@ If you have any questions, please contact us back.
 Good luck.
 PS. We don't expect you to spend weeks (and sleepless nights) on doing it. Lets see how far you can get in 6-10 hours. We want to see how you approach and solve problems.
 PSPS. Please use mobile native tools. (Tests written on Java are accepted too)
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 Kiran findings
 old version of java 11  
 "Note: I encountered a build failure due to deprecated JCenter dependencies (Detekt).
